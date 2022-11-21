@@ -6,7 +6,7 @@
 
 #### I will making my profile here
 
-#### Nikita Ghodke (she/her/ella)
+#### Nikita Ghodke (she/her)
 
 ![PicGrid_20220607_22050335](https://user-images.githubusercontent.com/87821749/203017346-7b4c5392-ebba-4a21-afa7-3ed2da8fec1a.jpg)
 
