@@ -1,9 +1,11 @@
 <p align="center"> Welcome to my dummy website :)
 <p align="center"> Doing this for pratice on github
+ 
+ 
 
-Okay, let's start then?
+#### Okay, let's start then?
 
-I will making my profile here
+#### I will making my profile here
 
 #### Nikita Ghodke (she/her)
 
@@ -23,7 +25,7 @@ I will making my profile here
 | Nikita  | Wooho? if it works, if not I am sad| 
 | Nikita  | My name that is and I am just checking if this works | 
 
-Changing the format of the table :")
+###Changing the format of the table :")
 
 | Name    | Description |
 | :----   | :---------- |
