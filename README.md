@@ -31,8 +31,3 @@ Changing the format of the table :")
 
 
 #### Thank you for stopping by :D
-
-
-
-
-
