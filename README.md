@@ -19,5 +19,4 @@ Right aligened columns
 | Okay    | Wooho? if it works, if not I am sad| 
 | Nikita  | My name that is and I am just checking if this works | 
 
-##Images
-! Nikita Add image?
+
