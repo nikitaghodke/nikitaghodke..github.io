@@ -12,7 +12,7 @@
 | Nikita  | Wooho? if it works, if not I am sad| 
 | Nikita  | My name that is and I am just checking if this works | 
 
-Center aligened columns 
+Chaneging the format of the table :")
 
 | Name    | Description |
 | :----   | :---------- |
