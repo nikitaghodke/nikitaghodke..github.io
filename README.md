@@ -15,7 +15,7 @@
 Center aligened columns 
 
 | Name    | Description |
-| ----:   | ----------: |
+| --:--   | -----:----- |
 | Okay    | Wooho? if it works, if not I am sad| 
 | Nikita  | My name that is and I am just checking if this works | 
 
@@ -23,10 +23,10 @@ Center aligened columns
 
 #### Nikita Ghodke (she/her/ella)
 
-###### Picture coming soon
+##### Picture coming soon
 
 
-##### I am a research Assistant at Harvard University.
+#### I am a research Assistant at Harvard University.
 
 ### Link to my website : https://www.nikitaghodke.com/
 
