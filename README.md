@@ -1,10 +1,9 @@
-## Welcome to my dummy website :)
-#### Doing this for pratice on github
+<p align="center"> Welcome to my dummy website :)
+<p align="center"> Doing this for pratice on github
 
+Okay, let's start then?
 
-##### Okay, let's start then?
-
-#### I will making my profile here
+I will making my profile here
 
 #### Nikita Ghodke (she/her)
 
@@ -14,7 +13,7 @@
 
 ##### Link to my website : https://www.nikitaghodke.com/
 
-Will try adding somehting more here:
+#### Will try adding somehting more here:
 
 #### I am going to make a table here
  
