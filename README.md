@@ -23,7 +23,7 @@ Chaneging the format of the table :")
 
 #### Nikita Ghodke (she/her/ella)
 
-##### ( Picture coming soon )
+![Picture] (PicGrid_20220607_22050335.jpg)
 
 #### I am a research Assistant at Harvard University.
 
