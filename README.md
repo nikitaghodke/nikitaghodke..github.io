@@ -13,7 +13,8 @@ I will making my profile here
 
 ##### Link to my website : https://www.nikitaghodke.com/
 
-#### Will try adding somehting more here:
+
+#### Will try adding somehting more here
 
 #### I am going to make a table here
  
