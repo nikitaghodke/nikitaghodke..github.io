@@ -8,7 +8,7 @@
 
 #### Nikita Ghodke (she/her)
 
-![PicGrid_20220607_22050335](https://user-images.githubusercontent.com/87821749/203017346-7b4c5392-ebba-4a21-afa7-3ed2da8fec1a.jpg =100x100)
+<img src="https://user-images.githubusercontent.com/87821749/203017346-7b4c5392-ebba-4a21-afa7-3ed2da8fec1a.jpg" width="200">
 
 #### I am a research Assistant at Harvard University.
 
