@@ -23,7 +23,7 @@ Chaneging the format of the table :")
 
 #### Nikita Ghodke (she/her/ella)
 
-https://github.com/github/{repository}/blob/assets/PicGrid_20220607_22050335.jpg
+##### Picture coming soon :)
 
 #### I am a research Assistant at Harvard University.
 
