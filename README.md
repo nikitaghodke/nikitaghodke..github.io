@@ -1,11 +1,11 @@
-# Welcome to my dummy website :)
+## Welcome to my dummy website :)
 #### Doing this for pratice on github
 
 
-### Okay, let's start then?
+##### Okay, let's start then?
 
 
-## I am going to make a table here
+#### I am going to make a table here
  
 | Name    | Description |
 | -----   | ----------- |
@@ -19,24 +19,17 @@ Center aligened columns
 | Okay    | Wooho? if it works, if not I am sad| 
 | Nikita  | My name that is and I am just checking if this works | 
 
-# I will making my profile here
+#### I will making my profile here
 
-# Nikita Ghodke (she/her/ella)
+#### Nikita Ghodke (she/her/ella)
 
-
-
-
+###### Picture coming soon
 
 
+##### I am a research Assistant at Harvard University.
 
+### Link to my website : https://www.nikitaghodke.com/
 
-### I am a research Assistant at Harvard University.
-
-### Link to my website 
-
-(link with text) (https://www.nikitaghodke.com/) 
-
-(link with title) (https://www.nikitaghodke.com/ "title text")
 
 ## The end, let's see if this works 
 
