@@ -25,13 +25,11 @@ Chaneging the format of the table :")
 
 ##### ( Picture coming soon )
 
-
 #### I am a research Assistant at Harvard University.
 
 ##### Link to my website : https://www.nikitaghodke.com/
 
-
-##### The end, let's see if this works 
+#### Thank you for stopping by!
 
 
 
