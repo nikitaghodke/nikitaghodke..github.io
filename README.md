@@ -1,7 +1,6 @@
 <p align="center"> Welcome to my dummy website :)
 <p align="center"> Doing this for pratice on github
  
- 
 
 #### Okay, let's start then?
 
@@ -34,4 +33,3 @@
 
 
 #### Thank you for stopping by :D
-
