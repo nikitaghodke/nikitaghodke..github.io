@@ -1,5 +1,5 @@
-<p align="center"> Welcome to my dummy website :)
-<p align="center"> Doing this for pratice on github
+Welcome to my dummy website :)
+Doing this for pratice on github
  
  
 
